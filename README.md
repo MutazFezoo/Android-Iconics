@@ -185,9 +185,9 @@ Some great text with a {faw-android} font awesome icon and {met-wind} meteocons 
 |[Material Design DX](https://jossef.github.io/material-design-icons-iconfont/)|cmf|implementation 'com.mikepenz:material-design-icons-dx-typeface:+@aar'|
 
 Licenses for all included fonts are linked inside the class or can be found on the coresponding repositories.
-
-# Advanced Usage
-
+##################
+# Advanced Usage #
+##################
 ### Register fonts
 
 If you want to add your own custom font, or a GenericFont you have to register this font (before using it). The best place to do this is the `Application`.
